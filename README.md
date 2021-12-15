@@ -6,6 +6,7 @@ This project will be focused on the NBA's current season (2021/2022), and all th
 
 The tools used will be:
 - Python's BeautifulSoup 
+- Selenium
 - Pandas
 
 Tutorials followed:
