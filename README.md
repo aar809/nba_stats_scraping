@@ -25,3 +25,10 @@ This project is focused on the NBA's current season (2021/2022), and all the dat
 
 <b>Output Preview:</b>
 <img width="1323" alt="Excel output_selenium" src="https://user-images.githubusercontent.com/19891445/146230272-f03dc25f-b459-4ec6-9e8f-73e12a3d92c5.png">
+
+
+<b>Part 3: Data Visualization & Insights</b>
+
+
+<b>Part 4: Data Analytics & Modeling </b>
+
