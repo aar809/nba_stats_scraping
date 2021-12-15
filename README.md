@@ -1,4 +1,4 @@
-# NBA Stats Web Scraping and Data Analytics
+# NBA Stats Web Scraping and Analytics
 
 The purpose of this project was for me to familiarize myself with the data analysis pipeline from scraping/extraction, cleaning/ETL, and analysis. 
 I wanted to combine my passions in data analytics/data science and sports in order to get the most out of my experience, and to gain insights into sports analytics.
