@@ -10,4 +10,4 @@ The tools used will be:
 - Pandas
 
 Tutorials followed:
-- Nick from 'Nick's Niches' Youtube channel. (source: https://www.youtube.com/watch?v=xxI5tomlDoc&list=PLTUcfu017zJCI7ENgSEK2NjwKp_MJocVL&index=4). I want to thank Nick for creating such a brilliant video series targeting a perfect combination of my interests of data and basketball. Please check out his videos if you are interested as well.
+- Nick from 'Nick's Niches' Youtube channel. (source: https://www.youtube.com/watch?v=xxI5tomlDoc&list=PLTUcfu017zJCI7ENgSEK2NjwKp_MJocVL&index=4). I want to thank Nick for creating such a brilliant video series targeting a perfect combination of my interests in data and basketball. Please check out his videos if you are interested as well.
