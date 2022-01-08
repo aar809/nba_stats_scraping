@@ -27,9 +27,13 @@ This project is focused on the NBA's current season (2021/2022), and all the dat
 <img width="1323" alt="Excel output_selenium" src="https://user-images.githubusercontent.com/19891445/146230272-f03dc25f-b459-4ec6-9e8f-73e12a3d92c5.png">
 
 <b>Part 3: Using NBA's stats API to directly pull player-shot level data</b>
+
 <b>Input Source:</b> https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/examples.md
 
+<b>Output Preview:</b>
+<img width="1490" alt="Excel output_NBA_API" src="https://user-images.githubusercontent.com/19891445/148630913-0486de48-55c3-4011-85f7-f10d28c33949.png">
 
+<img width="549" alt="Excel output_NBA_API2" src="https://user-images.githubusercontent.com/19891445/148630914-cab24c44-3a7a-46fc-820f-309c85724139.png">
 
 
 <b>Part 4: Data Visualization & Insights</b>
